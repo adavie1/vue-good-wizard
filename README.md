@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/github/license/xaksis/vue-good-wizard.svg?style=flat-square)](https://github.com/xaksis/vue-good-wizard/blob/master/LICENSE)
 [![](https://data.jsdelivr.com/v1/package/npm/vue-good-wizard/badge)](https://www.jsdelivr.com/package/npm/vue-good-wizard)
 
-An easy and clean VueJS 2.x wizard plugin
+An easy and clean VueJS 3.x wizard plugin
 
 ![Basic Screenshot](README/images/vue-good-wizard.gif)
 
